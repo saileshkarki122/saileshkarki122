@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @saileshkarki122
-- 👀 I’m interested in  web development
+- 👀 I’m interested in  web apps and websites development
 - 🌱 I have currently started to develop my programming skills
 - 💞️ I’m looking to being provided some new helps
 - 📫 How to reach me saileshkarki469@gmail.com
